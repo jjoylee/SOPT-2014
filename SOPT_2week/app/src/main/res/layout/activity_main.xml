@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.joylee.sopt_2week.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:background="#10BFFF"
+        android:id="@+id/a"
+        android:layout_alignParentTop="true">
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_toRightOf="@+id/a"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:id="@+id/b"
+        android:background="#CBCBCB"></RelativeLayout>
+
+    <RelativeLayout
+        android:layout_toRightOf="@+id/a"
+        android:layout_below="@+id/b"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:id="@+id/c"
+        android:background="#ffff">
+        <RelativeLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:background="#10BFFF">
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:background="#CBCBCB"
+        android:layout_below="@+id/c"
+        android:layout_alignParentRight="true"
+        ></RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#CBCBCB"
+        android:layout_alignParentBottom="true"></RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="90dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:id="@+id/e">
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_height="250dp"
+            android:background="#10BFFF"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true">
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
