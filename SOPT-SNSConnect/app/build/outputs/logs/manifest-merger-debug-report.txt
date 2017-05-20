@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JoyLee\.android\build-cache\99251a5c7f0f62650058bbe32d1d9c1f6a40aa4f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JoyLee\.android\build-cache\33e56352f8d59dacaa76ee6358aea39cdda54c43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\JoyLee\.android\build-cache\501b6efd5beb81462a763441c93e9dfc7fe343bc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\JoyLee\.android\build-cache\c4d900afb3aa8f06ff530fca57b61b7e2468620d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\JoyLee\.android\build-cache\03ee883d4711e3a9bf1df6580d94bac46d17e26d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\JoyLee\.android\build-cache\0785c6f9ccd89f0235940fda987689f35c27a1c1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\JoyLee\.android\build-cache\b79d4b0ff41d2f670f05df6995146683ca4d35ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\JoyLee\.android\build-cache\2722b9021373343b53f8cc8ad5e8d964260a075f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\JoyLee\.android\build-cache\f1e11fd2a57f4ebb301f3e00d0021357e8babe36\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\JoyLee\.android\build-cache\ef87dc6a2e600bf599a44b35a8886c06db342096\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\JoyLee\.android\build-cache\97a7a9fb4d609a4e43ffa7e9b928dc4b3d297271\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\JoyLee\.android\build-cache\47f83ea14ff529f9e70aefc4fc3fb8e85b105aa3\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.joylee.snsconnect.LoginActivity
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:18:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:22:9-24:55
+	android:value
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:23:13-58
+activity#com.example.joylee.snsconnect.MainActivity
+ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JoyLee\.android\build-cache\99251a5c7f0f62650058bbe32d1d9c1f6a40aa4f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JoyLee\.android\build-cache\33e56352f8d59dacaa76ee6358aea39cdda54c43\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\JoyLee\.android\build-cache\501b6efd5beb81462a763441c93e9dfc7fe343bc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\JoyLee\.android\build-cache\c4d900afb3aa8f06ff530fca57b61b7e2468620d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\JoyLee\.android\build-cache\03ee883d4711e3a9bf1df6580d94bac46d17e26d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\JoyLee\.android\build-cache\0785c6f9ccd89f0235940fda987689f35c27a1c1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\JoyLee\.android\build-cache\b79d4b0ff41d2f670f05df6995146683ca4d35ec\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\JoyLee\.android\build-cache\2722b9021373343b53f8cc8ad5e8d964260a075f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\JoyLee\.android\build-cache\f1e11fd2a57f4ebb301f3e00d0021357e8babe36\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\JoyLee\.android\build-cache\ef87dc6a2e600bf599a44b35a8886c06db342096\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\JoyLee\.android\build-cache\97a7a9fb4d609a4e43ffa7e9b928dc4b3d297271\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\JoyLee\.android\build-cache\47f83ea14ff529f9e70aefc4fc3fb8e85b105aa3\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JoyLee\.android\build-cache\33e56352f8d59dacaa76ee6358aea39cdda54c43\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoyLee\Desktop\SNSConnect\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.1] C:\Users\JoyLee\.android\build-cache\6dbff0645023e3ef9c925d5c9e60b352e7a6c3fb\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JoyLee\.android\build-cache\33e56352f8d59dacaa76ee6358aea39cdda54c43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\JoyLee\.android\build-cache\501b6efd5beb81462a763441c93e9dfc7fe343bc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\JoyLee\.android\build-cache\c4d900afb3aa8f06ff530fca57b61b7e2468620d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\JoyLee\.android\build-cache\03ee883d4711e3a9bf1df6580d94bac46d17e26d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\JoyLee\.android\build-cache\0785c6f9ccd89f0235940fda987689f35c27a1c1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\JoyLee\.android\build-cache\b79d4b0ff41d2f670f05df6995146683ca4d35ec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\JoyLee\.android\build-cache\2722b9021373343b53f8cc8ad5e8d964260a075f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\JoyLee\.android\build-cache\f1e11fd2a57f4ebb301f3e00d0021357e8babe36\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\JoyLee\.android\build-cache\47f83ea14ff529f9e70aefc4fc3fb8e85b105aa3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JoyLee\.android\build-cache\33e56352f8d59dacaa76ee6358aea39cdda54c43\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\JoyLee\.android\build-cache\33e56352f8d59dacaa76ee6358aea39cdda54c43\output\AndroidManifest.xml:26:9-47
